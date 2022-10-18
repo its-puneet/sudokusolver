@@ -1,4 +1,4 @@
-Sudoku Solver using Backtracking Algorithm in Python
+## Sudoku Solver using Backtracking Algorithm in Python
 
 This project mainly focuses on solving sudoku puzzles with full accuracy as well as efficency. It uses backtracking algorithm to solve puzzles. GUI form of this code will be updated soon.
 Language used-Python
